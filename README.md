@@ -33,8 +33,6 @@ You can view all detailed test cases in the following spreadsheet:
 
 🔗 [View Test Cases on Google Sheets](https://docs.google.com/spreadsheets/d/1fWySu_NMji46JJPXr8nU8DDQeheg5PTMjAwJw9YMRE0/edit?usp=sharing)
 
----
-
 ## 🐞 Bug Report
 
 A list of bugs discovered during testing, including severity, steps to reproduce, and screenshots if available:
