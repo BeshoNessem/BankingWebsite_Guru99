@@ -27,7 +27,19 @@ Junior Software Tester
 Email: beshoynessem16@gmail.com  
 Location: Egypt 🇪🇬
 
-## 📌 Notes
+## 📄 Test Cases Sheet
 
-This project is for learning and portfolio purposes only. The Guru99 Bank site is a demo environment and does not represent a real banking service.
+You can view all detailed test cases in the following spreadsheet:
+
+🔗 [View Test Cases on Google Sheets](https://docs.google.com/spreadsheets/d/1fWySu_NMji46JJPXr8nU8DDQeheg5PTMjAwJw9YMRE0/edit?usp=sharing)
+
+---
+
+## 🐞 Bug Report
+
+A list of bugs discovered during testing, including severity, steps to reproduce, and screenshots if available:
+
+🔗 [View Bug Report on Google Sheets](https://docs.google.com/spreadsheets/d/1pcVRzGzOeWaLXZ27meWMZZD_Wpwlb7KRZqjWItQknzo/edit?usp=sharing)
+
+
 
